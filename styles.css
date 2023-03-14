@@ -61,7 +61,7 @@ body{
     color: #ff0000;
 }
 
-#modal-conatainer {
+#modal-container {
     display: none;
     position: fixed;
     top: 0;
